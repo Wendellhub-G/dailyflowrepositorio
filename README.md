@@ -16,7 +16,7 @@ definição de prioridades, focos principais e tarefas ao final do dia.
 Auxiliar o usuário a organizar sua rotina diária de forma clara,
 adaptativa e eficiente.
 
-##  Funcionalidades
+## Principais funcionalidades
 
 -  Organização personalizada de tarefas  
 -  Definição de focos principais  
